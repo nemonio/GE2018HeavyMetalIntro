@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EarthRendering Free/Test.unity
+  isLoaded: 1
+  isActive: 1
