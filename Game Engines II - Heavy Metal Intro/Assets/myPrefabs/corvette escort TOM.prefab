@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4385215252344488}
   m_Layer: 0
-  m_Name: corvette escort
+  m_Name: corvette escort TOM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
