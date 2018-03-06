@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 26b276534c6ba4a4e957af0f30ed409f
+timeCreated: 1520287149
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: a_61VETTE0
+    100004: FGRILLES01
+    100006: FLWHEEL01
+    100008: FRWHEEL01
+    100010: HOOD01
+    100012: LDOOR01
+    100014: RDOOR01
+    100016: RLWHEEL01
+    100018: ROOFCOVER0
+    100020: RRWHEEL01
+    100022: STWHEEL01
+    100024: TRUNKLID01
+    400000: //RootNode
+    400002: a_61VETTE0
+    400004: FGRILLES01
+    400006: FLWHEEL01
+    400008: FRWHEEL01
+    400010: HOOD01
+    400012: LDOOR01
+    400014: RDOOR01
+    400016: RLWHEEL01
+    400018: ROOFCOVER0
+    400020: RRWHEEL01
+    400022: STWHEEL01
+    400024: TRUNKLID01
+    2100000: white01
+    2100002: interiorprt01
+    2100004: interiorcol01
+    2100006: chrome01
+    2100008: body01
+    2100010: lights01
+    2100012: default02
+    2100014: black01
+    2100016: chassis01
+    2100018: blue01
+    2100020: windows01
+    2100022: chrome011
+    2100024: black011
+    2100026: chassis011
+    2100028: chrome012
+    2100030: tires01
+    2100032: chrome013
+    2100034: tires011
+    2100036: chassis012
+    2100038: body011
+    2100040: chrome014
+    2100042: body012
+    2100044: interiorcol011
+    2100046: interiorprt011
+    2100048: red01
+    2100050: chrome015
+    2100052: body013
+    2100054: interiorcol012
+    2100056: interiorprt012
+    2100058: red011
+    2100060: chrome016
+    2100062: tires012
+    2100064: chrome017
+    2100066: body014
+    2100068: chrome018
+    2100070: tires013
+    2100072: default021
+    2100074: chrome019
+    2100076: interiorcol013
+    2100078: default022
+    2100080: body015
+    2100082: chrome0110
+    2100084: gold01
+    2100086: hardtop01
+    2300000: a_61VETTE0
+    2300002: FGRILLES01
+    2300004: FLWHEEL01
+    2300006: FRWHEEL01
+    2300008: HOOD01
+    2300010: LDOOR01
+    2300012: RDOOR01
+    2300014: RLWHEEL01
+    2300016: ROOFCOVER0
+    2300018: RRWHEEL01
+    2300020: STWHEEL01
+    2300022: TRUNKLID01
+    3300000: a_61VETTE0
+    3300002: FGRILLES01
+    3300004: FLWHEEL01
+    3300006: FRWHEEL01
+    3300008: HOOD01
+    3300010: LDOOR01
+    3300012: RDOOR01
+    3300014: RLWHEEL01
+    3300016: ROOFCOVER0
+    3300018: RRWHEEL01
+    3300020: STWHEEL01
+    3300022: TRUNKLID01
+    4300000: a_61VETTE0
+    4300002: FGRILLES01
+    4300004: FLWHEEL01
+    4300006: FRWHEEL01
+    4300008: HOOD01
+    4300010: LDOOR01
+    4300012: RDOOR01
+    4300014: RLWHEEL01
+    4300016: ROOFCOVER0
+    4300018: RRWHEEL01
+    4300020: STWHEEL01
+    4300022: TRUNKLID01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

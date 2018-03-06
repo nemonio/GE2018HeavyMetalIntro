@@ -1,0 +1,887 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5.5 5.5.3.2642 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl white01
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd vette_inter.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl interiorprt01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.560784 0.560784 0.560784
+illum 2
+Ns 29.8571
+map_Kd vette_inter.png
+map_bump vette_interbump.png
+bump vette_interbump.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl interiorcol01
+Ka 0.768628 0.654902 0.560784
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 11.3137
+map_Kd vette_inter.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome01
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl body01
+Ka 0.588235 0.745098 0.768628
+Kd 0.588235 0.745098 0.768628
+Ks 1 1 1
+illum 2
+Ns 119.428
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl lights01
+Ka 0.027451 0.129412 0.160784
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 90.5097
+map_Kd vette_body.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl default02
+Ka 0.0666667 0.109804 0.156863
+Kd 0.0666667 0.109804 0.156863
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl black01
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.560784 0.560784 0.560784
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chassis01
+Ka 0.0509804 0.0509804 0.0509804
+Kd 1 1 1
+Ks 0.623529 0.623529 0.623529
+illum 2
+Ns 34.115
+map_Kd vette_body.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl blue01
+Ka 0 0 0.568627
+Kd 0 0 0.568627
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl windows01
+Ka 0.0117647 0.137255 0.176471
+Kd 0.0117647 0.137255 0.176471
+Ks 1 1 1
+illum 2
+Ns 34.115
+d 0.31
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__39
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome010
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl black010
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.560784 0.560784 0.560784
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__50
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chassis010
+Ka 0.0509804 0.0509804 0.0509804
+Kd 1 1 1
+Ks 0.623529 0.623529 0.623529
+illum 2
+Ns 34.115
+map_Kd vette_body.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome011
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl tires01
+Ka 0.254902 0.254902 0.254902
+Kd 1 1 1
+Ks 0.643137 0.643137 0.643137
+illum 2
+Ns 34.115
+map_Kd vette_body.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__61
+Ka 0.0509804 0.0509804 0.0509804
+Kd 0.0509804 0.0509804 0.0509804
+Ks 0.623529 0.623529 0.623529
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome012
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl tires010
+Ka 0.254902 0.254902 0.254902
+Kd 1 1 1
+Ks 0.643137 0.643137 0.643137
+illum 2
+Ns 34.115
+map_Kd vette_body.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chassis011
+Ka 0.0509804 0.0509804 0.0509804
+Kd 1 1 1
+Ks 0.623529 0.623529 0.623529
+illum 2
+Ns 34.115
+map_Kd vette_body.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__72
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl body010
+Ka 0.588235 0.745098 0.768628
+Kd 0.588235 0.745098 0.768628
+Ks 1 1 1
+illum 2
+Ns 119.428
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome013
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl body011
+Ka 0.588235 0.745098 0.768628
+Kd 0.588235 0.745098 0.768628
+Ks 1 1 1
+illum 2
+Ns 119.428
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl interiorcol010
+Ka 0.768628 0.654902 0.560784
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 11.3137
+map_Kd vette_inter.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl interiorprt010
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.560784 0.560784 0.560784
+illum 2
+Ns 29.8571
+map_Kd vette_inter.png
+map_bump vette_interbump.png
+bump vette_interbump.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl red01
+Ka 0.678431 0 0
+Kd 0.678431 0 0
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__83
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome014
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl body012
+Ka 0.588235 0.745098 0.768628
+Kd 0.588235 0.745098 0.768628
+Ks 1 1 1
+illum 2
+Ns 119.428
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl interiorcol011
+Ka 0.768628 0.654902 0.560784
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 11.3137
+map_Kd vette_inter.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl interiorprt011
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.560784 0.560784 0.560784
+illum 2
+Ns 29.8571
+map_Kd vette_inter.png
+map_bump vette_interbump.png
+bump vette_interbump.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl red010
+Ka 0.678431 0 0
+Kd 0.678431 0 0
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__94
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome015
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl tires011
+Ka 0.254902 0.254902 0.254902
+Kd 1 1 1
+Ks 0.643137 0.643137 0.643137
+illum 2
+Ns 34.115
+map_Kd vette_body.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__105
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome016
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl body013
+Ka 0.588235 0.745098 0.768628
+Kd 0.588235 0.745098 0.768628
+Ks 1 1 1
+illum 2
+Ns 119.428
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__116
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome017
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl tires012
+Ka 0.254902 0.254902 0.254902
+Kd 1 1 1
+Ks 0.643137 0.643137 0.643137
+illum 2
+Ns 34.115
+map_Kd vette_body.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__127
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl default020
+Ka 0.0666667 0.109804 0.156863
+Kd 0.0666667 0.109804 0.156863
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome018
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl interiorcol012
+Ka 0.768628 0.654902 0.560784
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 11.3137
+map_Kd vette_inter.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__138
+Ka 0.0666667 0.109804 0.156863
+Kd 0.0666667 0.109804 0.156863
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl default021
+Ka 0.0666667 0.109804 0.156863
+Kd 0.0666667 0.109804 0.156863
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl body014
+Ka 0.588235 0.745098 0.768628
+Kd 0.588235 0.745098 0.768628
+Ks 1 1 1
+illum 2
+Ns 119.428
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome019
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl gold01
+Ka 0.741176 0.545098 0.196078
+Kd 0.741176 0.545098 0.196078
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl hardtop01
+Ka 1 0 0
+Kd 1 0 0
+Ks 1 1 1
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__149
+Ka 0.0666667 0.109804 0.156863
+Kd 0.0666667 0.109804 0.156863
+Ks 0.498039 0.498039 0.498039
+illum 2
+Ns 34.115
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
