@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/EarthRendering Free/Test.unity
+- path: Assets/SCENES/CutScene_v1.unity
   isLoaded: 1
   isActive: 1
