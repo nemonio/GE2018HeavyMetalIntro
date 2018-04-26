@@ -12,21 +12,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeInFrames: 1
-  timeAreaShownRange: {x: -2.3470178, y: 191.98607}
+  timeAreaShownRange: {x: -4.3377914, y: 189.99527}
   showAudioWaveform: 1
   trackHeight: 30
   trackScale: 1
   playRangeEnabled: 0
-  timeAreaPlayRange: {x: 18.066668, y: 85.9}
-  windowTime: 0
+  timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
+  windowTime: 53.35
   m_Keys:
   - {fileID: 114503324412654046, guid: 701187f435348754ea517efefca62c35, type: 2}
-  - {fileID: 114326174684700618, guid: 701187f435348754ea517efefca62c35, type: 2}
-  - {fileID: 114491844305673170, guid: 701187f435348754ea517efefca62c35, type: 2}
   - {fileID: 114385909348363694, guid: 701187f435348754ea517efefca62c35, type: 2}
-  - {fileID: 114344976501837374, guid: 701187f435348754ea517efefca62c35, type: 2}
-  - {fileID: 114241636346836178, guid: 701187f435348754ea517efefca62c35, type: 2}
+  - {fileID: 114326174684700618, guid: 701187f435348754ea517efefca62c35, type: 2}
   - {fileID: 114726488667844870, guid: 701187f435348754ea517efefca62c35, type: 2}
+  - {fileID: 114491844305673170, guid: 701187f435348754ea517efefca62c35, type: 2}
+  - {fileID: 114241636346836178, guid: 701187f435348754ea517efefca62c35, type: 2}
+  - {fileID: 114344976501837374, guid: 701187f435348754ea517efefca62c35, type: 2}
   - {fileID: 114686308504184170, guid: 701187f435348754ea517efefca62c35, type: 2}
   - {fileID: 114050620945183236, guid: 701187f435348754ea517efefca62c35, type: 2}
   m_Vals:
@@ -35,25 +35,25 @@ MonoBehaviour:
     inlineAnimationCurveHeight: 100
   - collapsed: 0
     showInlineCurves: 0
-    inlineAnimationCurveHeight: 101
+    inlineAnimationCurveHeight: 100
   - collapsed: 0
     showInlineCurves: 0
-    inlineAnimationCurveHeight: 60
+    inlineAnimationCurveHeight: 100
   - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 1
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
   - collapsed: 1
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
-  - collapsed: 0
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-  - collapsed: 0
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-  - collapsed: 0
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-  - collapsed: 0
+  - collapsed: 1
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
