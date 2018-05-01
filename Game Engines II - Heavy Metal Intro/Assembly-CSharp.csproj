@@ -58,10 +58,12 @@
      <Compile Include="Assets\AIBoids\CubeControl.cs" />
      <Compile Include="Assets\AIBoids\EnemyController.cs" />
      <Compile Include="Assets\AIBoids\EnemyManager.cs" />
+     <Compile Include="Assets\AIBoids\FollowPath.cs" />
      <Compile Include="Assets\AIBoids\ForceController.cs" />
      <Compile Include="Assets\AIBoids\FPSController.cs" />
      <Compile Include="Assets\AIBoids\Harmonic.cs" />
      <Compile Include="Assets\AIBoids\LerpingCamera.cs" />
+     <Compile Include="Assets\AIBoids\MiniPath.cs" />
      <Compile Include="Assets\AIBoids\MoveThing.cs" />
      <Compile Include="Assets\AIBoids\NoiseWander.cs" />
      <Compile Include="Assets\AIBoids\ObstacleAvoidance.cs" />
@@ -131,7 +133,10 @@
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineMixer.cs" />
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineShot.cs" />
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineTrack.cs" />
+     <Compile Include="Assets\createEnemyWave.cs" />
+     <Compile Include="Assets\disablePlayerAnimator.cs" />
      <Compile Include="Assets\EarthRendering Free\CameraCtrl.cs" />
+     <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\HPParticle\Scripts\AlwaysFace.cs" />
      <Compile Include="Assets\HPParticle\Scripts\CameraScript.cs" />
      <Compile Include="Assets\HPParticle\Scripts\DestroyAfter.cs" />
